@@ -1,0 +1,21 @@
+{
+  "name": "InfraRED Calculator",
+  "short_name": "InfraRED",
+  "description": "Calculadora de Subnetting SENA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020a06",
+  "theme_color": "#00ff88",
+  "icons": [
+    {
+      "src": "logoinfrared1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logoinfrared1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
